@@ -44,9 +44,7 @@ Data-Structures-Algorithms/
 | Title              | Data    |
 | :---------------- | :------: |
 |Time programming Today	       |   0.5 hour   |
-| Lines of Code Today      |   ~100   |
-| Codecademy Tee    |  False   |
-| Codecademy Hoodie |  False   |
+| Lines of Code Today      |   ~100   | 
 
 ---
 
