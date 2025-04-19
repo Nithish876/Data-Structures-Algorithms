@@ -83,6 +83,6 @@ This is a personal repo, but feel free to fork it or take inspiration if you're 
 
 **Nithish**
 📍 Self-taught Developer | DSA Explorer
-🌐 [nithish876.netlify.app](#) | 💼 [LinkedIn](#) | 🐙 [GitHub](#)
+🌐 [nithish876.netlify.app](https://nithish876.netlify.app) | 💼 [LinkedIn](https://www.linkedin.com/in/nithish876/) | 🐙 [GitHub](https://github.com/Nithish876)
 
 ---
