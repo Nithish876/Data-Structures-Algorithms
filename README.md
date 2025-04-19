@@ -38,7 +38,7 @@ Data-Structures-Algorithms/
 ├── playground/            # Temp files for quick testing
 │
 └── README.md
-
+---
 ### Day 1
 ### End of Day Stats
 | Title              | Data    |
