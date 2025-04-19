@@ -40,6 +40,7 @@ Data-Structures-Algorithms/
 │
 └── README.md
 ```
+
 ---
 
 ### Day 1
