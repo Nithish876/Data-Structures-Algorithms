@@ -7,10 +7,10 @@ class Node<T>{
         this.next = null;
     }
 }
- class SinglyLinkedList<T> {
+class SinglyLinkedList<T> {
      private Node<T> head;
 
-    // insert at end
+     
      public void insert(T data){
         Node<T> newNode = new Node<>(data);
 
@@ -25,11 +25,11 @@ class Node<T>{
         curr.next =newNode;
      }
 
-    // delete first entry occurence of key; returns true if deleted
+     
     public boolean delete(T key){
         if(head == null)return false;
 
-        // If head needs remove 
+        
         if(head.data.equals(key)){
            head =head.next;
             return true;
@@ -44,7 +44,7 @@ class Node<T>{
         curr.next = curr.next.next;
         return true;
     }
-    // search for key; returns true if found
+   
     public boolean search(T key){
         Node<T> curr= head;
         while(curr.next != null){
@@ -56,7 +56,7 @@ class Node<T>{
         return false;
     }
 
-    // print the entire list 
+ 
     public void printlist(){
         Node<T> curr = head;
         while(curr !=null){
@@ -67,8 +67,8 @@ class Node<T>{
 
     }
 
-    // insert at head in O(1)
-    public void insertAtHead(T data){
+   
+    public void insertAtHead(T data){ // insert at head in O(1)
         Node<T> newNode = new Node<>(data);
         newNode.next = head;
         head = newNode;
