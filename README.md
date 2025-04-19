@@ -22,6 +22,7 @@ This repository is my personal journey of mastering **Data Structures & Algorith
 ---
 
 ## 🗂️ Folder Structure
+````
 Data-Structures-Algorithms/
 │
 ├── problems/              # Solved problems by category
@@ -38,6 +39,7 @@ Data-Structures-Algorithms/
 ├── playground/            # Temp files for quick testing
 │
 └── README.md
+```
 ---
 ### Day 1
 ### End of Day Stats
