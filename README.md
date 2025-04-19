@@ -2,91 +2,96 @@
 
 > *"Sharpening the blade before entering the battlefield."*
 
-This repository is my personal journey of mastering **Data Structures & Algorithms** using Java — preparing for coding interviews, building problem-solving skills, and understanding core computer science principles.
+Welcome to my journey of mastering **Data Structures & Algorithms** using **Java** — focused on acing coding interviews, honing problem-solving skills, and building a solid computer science foundation.
 
 ---
 
 ## 📚 Topics Covered
 
-- ✅ Arrays & Strings
-- ✅ Linked Lists
-- ✅ Stacks & Queues
-- ✅ Trees & Binary Trees
-- ✅ Graphs (BFS, DFS, Dijkstra)
-- ✅ Recursion & Backtracking
-- ✅ Dynamic Programming
-- ✅ Searching & Sorting
-- ✅ Greedy Algorithms
-- ✅ Hashing
+- ✅ Arrays & Strings  
+- ✅ Linked Lists  
+- ✅ Stacks & Queues  
+- ✅ Trees & Binary Trees  
+- ✅ Graphs (BFS, DFS, Dijkstra)  
+- ✅ Recursion & Backtracking  
+- ✅ Dynamic Programming  
+- ✅ Searching & Sorting  
+- ✅ Greedy Algorithms  
+- ✅ Hashing  
 
 ---
 
 ## 🗂️ Folder Structure
-````
+
+```bash
 Data-Structures-Algorithms/
 │
-├── problems/              # Solved problems by category
+├── problems/              # Solved problems categorized by topic
 │   ├── arrays/
 │   ├── strings/
 │   ├── tree/
 │   ├── graph/
 │   └── ...
 │
-├── implementations/       # Core DS implementations (LinkedList, Tree, Graph, etc.)
+├── implementations/       # Core data structure implementations (LinkedList, Tree, Graph, etc.)
 │
-├── notes/                 # Theory notes, cheat sheets, Big-O, patterns
+├── notes/                 # Theory notes, cheat sheets, Big-O analysis, problem-solving patterns
 │
-├── playground/            # Temp files for quick testing
+├── playground/            # Scratchpad for testing ideas or snippets
 │
 └── README.md
 ```
 
 ---
 
-### Day 1
-### End of Day Stats
-| Title              | Data    |
-| :---------------- | :------: |
-|Time programming Today	       |   0.5 hour   |
-| Lines of Code Today      |   ~100   | 
+## 📅 Progress Log
+
+### Day 1 – End of Day Stats
+
+| Metric                  | Value     |
+|------------------------|-----------|
+| Time Spent Coding      | 0.5 hour  |
+| Lines of Code Written  | ~100 LOC  |
 
 ---
 
 ## 🎯 Goals
 
 - Solve **300+ curated DSA problems**
-- Build **core DS implementations** manually in Java
-- Write short **revision notes**
-- Be **interview-ready** for top tech companies
+- Manually implement all major **data structures in Java**
+- Write concise **revision notes & cheat sheets**
+- Become **interview-ready** for top tech companies
 
 ---
 
 ## 💡 Tools & Platforms
 
-- [LeetCode](https://leetcode.com)
-- [GeeksforGeeks](https://geeksforgeeks.org)
-- [NeetCode](https://neetcode.io)
-- Java (main language)
-- VS Codium / Zed
+- [LeetCode](https://leetcode.com)  
+- [GeeksforGeeks](https://geeksforgeeks.org)  
+- [NeetCode](https://neetcode.io)  
+- Java (primary language)  
+- VS Codium / Zed (preferred editors)  
 
 ---
 
 ## 📌 Notes
 
-Check the [`/notes`](./notes) folder for patterns, strategies, and cheat sheets (e.g., sliding window, recursion trees, DP states).
+Find key concepts, patterns, and quick-reference guides in the [`/notes`](./notes) folder — including sliding window, recursion trees, DP state design, and more.
 
 ---
 
 ## 🤝 Contributing
 
-This is a personal repo, but feel free to fork it or take inspiration if you're on a similar journey. If you want to collaborate or discuss ideas, DM me on GitHub or connect on LinkedIn.
+This is a personal learning repository. However, feel free to fork it, draw inspiration, or share thoughts if you're on a similar journey. Open to discussions or collaborations — reach out via GitHub or LinkedIn!
 
 ---
 
 ## 🧑‍💻 Author
 
-**Nithish**
-📍 Self-taught Developer | DSA Explorer
-🌐 [nithish876.netlify.app](https://nithish876.netlify.app) | 💼 [LinkedIn](https://www.linkedin.com/in/nithish876/) | 🐙 [GitHub](https://github.com/Nithish876)
+**Nithish**  
+📍 Self-Taught Developer | DSA Explorer  
+🌐 [nithish876.netlify.app](https://nithish876.netlify.app)  
+💼 [LinkedIn](https://www.linkedin.com/in/nithish876/)  
+🐙 [GitHub](https://github.com/Nithish876)
 
 ---
