@@ -53,6 +53,12 @@ Data-Structures-Algorithms/
 | Time Spent Coding      | 0.5 hour  |
 | Lines of Code Written  | ~100 LOC  |
 
+### Day 2 – End of Day Stats
+
+| Metric                  | Value     |
+|------------------------|-----------|
+| Time Spent Coding      | 1 hour  |
+| Lines of Code Written  | ~150 LOC  |
 ---
 
 ## 🎯 Goals
