@@ -76,7 +76,7 @@ Data-Structures-Algorithms/
 - [GeeksforGeeks](https://geeksforgeeks.org)  
 - [NeetCode](https://neetcode.io)  
 - Java (primary language)  
-- VS Codium / Zed (preferred editors)  
+- VS Codium 
 
 ---
 
