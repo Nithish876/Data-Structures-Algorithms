@@ -2,7 +2,7 @@
 
 > *"Sharpening the blade before entering the battlefield."*
 
-Welcome to my journey of mastering **Data Structures & Algorithms** using **Java** — focused on acing coding interviews, honing problem-solving skills, and building a solid computer science foundation.
+Welcome to my journey of mastering **Data Structures & Algorithms** using **Java** — honing problem-solving skills, and building a solid computer science foundation.
 
 ---
 
